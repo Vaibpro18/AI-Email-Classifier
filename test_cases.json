@@ -1,0 +1,42 @@
+[
+  {
+    "input": "I received a damaged product and want a refund",
+    "expected_intent": "refund"
+  },
+  {
+    "input": "Wrong size delivered, I need replacement",
+    "expected_intent": "exchange"
+  },
+  {
+    "input": "Can I get store credit instead?",
+    "expected_intent": "store_credit"
+  },
+  {
+    "input": "This is unacceptable, I want to talk to manager",
+    "expected_intent": "escalate"
+  },
+  {
+    "input": "Where is my order?",
+    "expected_intent": "inquiry"
+  },
+  {
+    "input": "I have some issue with my order",
+    "expected_intent": null
+  },
+  {
+    "input": "asdfghjkl random text",
+    "expected_intent": null
+  },
+  {
+    "input": "My order is delayed but not urgent",
+    "expected_intent": "inquiry"
+  },
+  {
+    "input": "I want my money back immediately",
+    "expected_intent": "refund"
+  },
+  {
+    "input": "Need to exchange product, wrong item",
+    "expected_intent": "exchange"
+  }
+]
