@@ -1,4 +1,4 @@
-# AI Customer Support Assistant
+# AI Email Classifier
 
 **Name:** Vaibhav Purwar
 **Project:** AI Email Classifier  
