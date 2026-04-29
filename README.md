@@ -161,6 +161,7 @@ python evaluator.py
 5. Run UI
 streamlit run app.py
 
+###
 Future Improvements: 
 
 Larger and more diverse dataset
@@ -168,6 +169,7 @@ Better handling of multi-intent emails
 Confidence threshold filtering
 Deploy as web application
 
+###
 Final Note: This project focuses on structured outputs, clarity, and evaluation rather than complex architecture. The goal was to build a system that is understandable, testable, and aligned with real-world use cases.
 
 Final Note: This project focuses on structured outputs, clarity, and evaluation rather than complex architecture. The goal was to build a system that is understandable, testable, and aligned with real-world use cases.
